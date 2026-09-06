@@ -1,4 +1,4 @@
-Metagenomics Pipeline
+**Metagenomics Pipeline**
 
 End-to-end shotgun-metagenomics workflow for Illumina paired-end reads:quality control → adapter trimming → host depletion → taxonomic profiling → visualization.
 
